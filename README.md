@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/3xpYVyyG/share.png" alt="TransferMe Logo" width="200">
 </div>
-
+###version 1.0
 # TransferMe: Simplify File Transfer
 
 
