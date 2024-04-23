@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/3xpYVyyG/share.png" alt="TransferMe Logo" width="200">
 </div>
 
-# TransferMe: Simplify File Transfers and Data Management
+# TransferMe: Simplify File Transfer
 
 
 TransferMe simplifies file sharing across iPhone, Android, and Windows devices via Wi-Fi.TransferMe lets you effortlessly transfer photos, videos, and documents between your devices.Experience the convenience of seamless Wi-Fi file sharing – try TransferMe today!
