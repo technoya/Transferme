@@ -11,9 +11,13 @@ TransferMe simplifies file sharing across iPhone, Android, and Windows devices v
 
 TransferMe utilizes a fast and Wi-Fi transfer protocol to enable seamless file transfers between various platforms, including Android, macOS, iPhone, and Windows devices. Users can easily upload files through a web interface and specify the destination folder on their PC for storage. With TransferMe, you can manage transferred files efficiently, organize them, back them up, and even delete them as needed.
 
-# SCREENSHOT
-![Screenshot 1](path/to/screenshot1.png)
-
+# SCREENSHOTS
+## MOBILE SCREENSHOT
+![Screenshot 1](https://i.postimg.cc/JnTBg8MH/photo-2024-04-23-06-47-40.jpg)
+![Screenshot 2](https://i.postimg.cc/FRFLDz5Q/photo-2024-04-23-06-47-48.jpg)
+## DESKTOP SCREENSHOT
+![Screenshot 1](https://i.postimg.cc/LsK50XPb/Capture.png)
+![Screenshot 2](https://i.postimg.cc/2yK8d8mT/Captures.png)
 
 ## Features
 
