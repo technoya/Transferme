@@ -4,7 +4,6 @@ from flask import Flask, request, render_template
 app = Flask(__name__)
 
 print()
-print("DEVELOPED BY YASH AUDICHYA")
 print("VERSION 1.0")
 print()
 
